@@ -1,2 +1,2 @@
-# course-labs
-labs on aws/terraform/ansible/linux
+# labs
+labs on aws and terraform
