@@ -17,7 +17,7 @@ resource "aws_db_instance" "my_database" {
 
   tags = {
     Name : "${var.env_prefix}-database"
-  }
+  
 
 }
 
